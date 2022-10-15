@@ -46,16 +46,24 @@ string status(int nilai){
     
 }
 
+// fungsi utama
+
 int main() {
+    
+    // tipe data int array
     
    int angka[] = {70, 60, 75, 50, 35, 20, 85, 65, 47};
    int panjang = sizeof(angka)/sizeof(*angka);
    int sementara;
    
+   // tipe data string array
+   
    string nama[] = {"Ayyub", "Joo", "Yudha", "Farhan", "Catur", "Fraza", "Ananda", "Rizki", "Rendy"};
    string sementara2;
    
    cout << endl;
+   
+   // menampilkan array
    
    for(int a = 0; a < panjang; a++){
        
@@ -64,6 +72,8 @@ int main() {
    }
    
    cout << endl;
+   
+   // mengurutkan nilai(angka) dan nama
    
    for(int a = 0; a < panjang; a++){
        
@@ -86,6 +96,8 @@ int main() {
    }
    
    cout << endl;
+   
+   // menampilkan semua hasil
    
    for(int a = 0; a < panjang; a++){
        
