@@ -1,5 +1,0 @@
-```cpp
-
-cout << "Hello words";
-
-```
