@@ -7,10 +7,8 @@ My Portofolio project:
 
 ### Website
 
-[Public Website](https://www.bercamilan.my.id/)
+[Public Website](https://www.bercamilan.com/)
 
 ### Android
 
-[Kalkulator Rumus Lite](https://play.google.com/store/apps/details?id=id.my.bercamilan.kalkulator.rumus.lite)
-
-[Kalkulator Rumus Pro](https://play.google.com/store/apps/details?id=id.my.bercamilan.kalkulator.rumus.pro)
+[Kalkulator Rumus](https://play.google.com/store/apps/details?id=com.bercamilan.kalkulator)
