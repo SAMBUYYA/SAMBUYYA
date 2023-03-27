@@ -1,10 +1,10 @@
 # Portofolio Saya :
 
-## [Web - BERCAMILAN](https://www.bercamilan.com/)
+### [Web - BERCAMILAN](https://www.bercamilan.com/)
 
 Website sederhana yang dibuat seperti buku catatan
 
-## [Android App - Kalkulator Rumus](https://play.google.com/store/apps/details?id=com.bercamilan.kalkulator)
+### [Android App - Kalkulator Rumus](https://play.google.com/store/apps/details?id=com.bercamilan.kalkulator)
 
 Aplikasi yang menampilkan rumus
 
@@ -18,11 +18,11 @@ Saya seorang web developer yang mempelajari HTML, CSS, Javascript dan PHP
 
 # My Portofolio :
 
-## [Web - BERCAMILAN](https://www.bercamilan.com/)
+### [Web - BERCAMILAN](https://www.bercamilan.com/)
 
 A simple website made like a notebook
 
-## [Android App - Kalkulator Rumus](https://play.google.com/store/apps/details?id=com.bercamilan.kalkulator)
+### [Android App - Kalkulator Rumus](https://play.google.com/store/apps/details?id=com.bercamilan.kalkulator)
 
 An application that displays formulas
 
