@@ -10,7 +10,7 @@ Aplikasi yang menampilkan rumus
 
 # Tentang Saya :
 
-I am a web developer who studies html, css, javascript and php.
+Saya seorang web developer yang mempelajari HTML, CSS, Javascript dan PHP
 
 <br><br>
 <br><br>
