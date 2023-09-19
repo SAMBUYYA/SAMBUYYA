@@ -11,13 +11,6 @@ Aplikasi yang menampilkan rumus
 
 Saya seorang web developer yang mempelajari HTML, CSS, Javascript dan PHP
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
 # ENGLISH
 ## My Portofolio :
 
@@ -30,4 +23,4 @@ A simple website made like a notebook
 An application that displays formulas
 
 ## About Me :
-I am a web developer who studies html, css, javascript and php.
+I am a web developer who studies HTML, CSS, Javascript and PHP.
