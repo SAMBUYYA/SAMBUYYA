@@ -1,3 +1,7 @@
+# Tentang Saya :
+
+Saya seorang yang ingin menjadi Front-End developer yang sedang mempelajari <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="CSS3 Logo" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="CSS3 Logo" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP Logo" /> dan <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React Logo" />
+
 # Portofolio Saya :
 
 **[Web - BERCAMILAN](https://www.bercamilan.com/)**<br>
@@ -38,7 +42,3 @@ Sebuah aplikasi to-do list sederhana yang dibangun menggunakan web, seperti HTML
 IDE pendukung:
 1. Android Studio
 2. WebView
-
-# Tentang Saya :
-
-Saya seorang Front-End developer yang mempelajari <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="CSS3 Logo" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="CSS3 Logo" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP Logo" /> dan <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React Logo" />
