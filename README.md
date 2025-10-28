@@ -19,6 +19,9 @@ Sebuah aplikasi kalkulator dengan tambahan sebuah rumus sebagai daya tariknya da
 
 Dibangun menggunakan HTML, CSS dan Javascript murni.
 
+Library pendukung:
+1. decimal.js
+
 IDE pendukung:
 1. Android Studio
 2. WebView
@@ -28,8 +31,7 @@ Aplikasi belajar Dasar-dasar CSS dan mencontohkannya dan juga bisa memperlihatka
 
 Dibangun menggunakan HTML, CSS dan juga Javascript murni.
 
-
-Framework pendukung:
+Library pendukung:
 1. prims.js
 
 IDE pendukung:
